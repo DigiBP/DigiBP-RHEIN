@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="http://www.omg.org/spec/DMN/20151101/dmn.xsd" id="Definitions_0rbl8nr" name="DRD" namespace="http://camunda.org/schema/1.0/dmn" exporter="Camunda Modeler" exporterVersion="3.3.5">
+  <decision id="Decision_03b6gyl" name="Decision 1">
+    <decisionTable id="decisionTable_1">
+      <input id="input_1" label="CV">
+        <inputExpression id="inputExpression_1" typeRef="boolean">
+          <text>cv</text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_02bblm0" label="Motivation-Letter">
+        <inputExpression id="LiteralExpression_0ix8m35" typeRef="boolean">
+          <text>motivationLetter</text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_05kdace" label="Certificate of Employment">
+        <inputExpression id="LiteralExpression_1lqbicw" typeRef="boolean">
+          <text>certificateOfEmployment</text>
+        </inputExpression>
+      </input>
+      <output id="output_1" label="Completeness" name="completeness" typeRef="boolean" />
+      <output id="OutputClause_0xjzcxo" label="Missing values" name="missingValues" typeRef="string">
+        <outputValues id="UnaryTests_0hub2mh">
+          <text>"CV missing","Motivation letter missing","Certificate of Employment missing"</text>
+        </outputValues>
+      </output>
+      <rule id="DecisionRule_0790pq0">
+        <inputEntry id="UnaryTests_1vqphre">
+          <text>true</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0n1zkqh">
+          <text>true</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1t2rm7d">
+          <text>true</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_03rk9rl">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_041e6oq">
+          <text></text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1jqnxmr">
+        <inputEntry id="UnaryTests_10n10y8">
+          <text>true</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1nplqva">
+          <text>true</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_13zmj6z">
+          <text>false</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0pf7hvh">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0w5zg6f">
+          <text>"Certificate of Employment missing"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0omj7ag">
+        <inputEntry id="UnaryTests_19gorce">
+          <text>true</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0vt2fc7">
+          <text>false</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1vkj7h0">
+          <text>true</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1y4whie">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1j9znva">
+          <text>"Motivation letter missing"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_078r6sy">
+        <inputEntry id="UnaryTests_0cm1vtt">
+          <text>false</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0h2f0iu">
+          <text>true</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0cea0tp">
+          <text>true</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1kw77v7">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0ueus45">
+          <text>"CV missing"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0useb87">
+        <inputEntry id="UnaryTests_03r9q8n">
+          <text>false</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1vhxx1a">
+          <text>false</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0fe4at6">
+          <text>true</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1ymr1uu">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0h7zak2">
+          <text>"CV missing", "Motivation letter missing"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1v6yvuo">
+        <inputEntry id="UnaryTests_077s31y">
+          <text>false</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0upczhk">
+          <text>true</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0rv2apx">
+          <text>false</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1ipesbe">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_09tein7">
+          <text>"CV missing", "Certificate of Employment missing"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0vf1vqm">
+        <inputEntry id="UnaryTests_183pwk5">
+          <text>true</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_05lv497">
+          <text>false</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0q4qqkt">
+          <text>false</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0i3ndwz">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1tohwet">
+          <text>"Motivation letter missing", "Certifiacte of Employment missing"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_12ghnav">
+        <inputEntry id="UnaryTests_0na1xzn">
+          <text>false</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0ukwzko">
+          <text>false</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1qoymdk">
+          <text>false</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_110qcpr">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1vdkq98">
+          <text>"CV missing", "Motivation letter missing", "Certificate of Employment missing"</text>
+        </outputEntry>
+      </rule>
+    </decisionTable>
+  </decision>
+</definitions>
