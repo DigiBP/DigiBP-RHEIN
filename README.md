@@ -42,7 +42,7 @@ Over the whole employment process the information traffic between company and ap
 
 #### Tool analysis 
 
-To automate the interview process and improve the interview experience, different tools with specific characteristics and use cases are under analysis. Since the decision was not yet taken, they were not yet included into the process model.
+To automate the interview process and improve the interview experience, different tools with specific characteristics and use cases are under analysis. Since the tool selection was not yet done, it was not yet included into the process model.
 
 
 | Tool  | Use case | 
