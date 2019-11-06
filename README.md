@@ -47,13 +47,13 @@ To automate the interview process and improve the interview experience, differen
 
 | Tool  | Use case | 
 | --- | --- |          
-| LinkedIn | Job Posting | 
-| Calendar | Timeline management, Internal scheduling, Reminders | 
-| VC and chat tools | Virtual interviews|
-| Databases| Aggregation tool, Retention for candidates for future positions|
-| Forms | Short questionnaires instead of motivation letters |
-| Mail | Notification of stakeholders |
-| Maps | Interview location |
+| `LinkedIn` | Job Posting | 
+| `Calendar` | Timeline management, Internal scheduling, Reminders | 
+| `VC and chat tools` | Virtual interviews|
+| `Databases`| Aggregation tool, Retention for candidates for future positions|
+| `Forms` | Short questionnaires instead of motivation letters |
+| `Mail` | Notification of stakeholders |
+| `Maps` | Interview location |
 
 
 
