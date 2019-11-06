@@ -42,13 +42,15 @@ Over the whole employment process the information traffic between company and ap
 
 #### Tools
 
-To automate the interview process and improve the interview experience. Different tools are currently under analysis.
+To automate the interview process and improve the interview experience, different tools are currently under analysis.
+
+
 | Tool  | Description | 
-| :---         | :---      |          
-| Linkedin   | Job Posting  | 
-| Calendar   | Timeline management  | Internal scheduling | Reminders 
+| --- | --- |          
+| Linkedin | Job Posting | 
+| Calendar | Timeline management, Internal scheduling, Reminders | 
 | VC and chat tools | virtual interviews|
-| Databases| Aggregation tool | Retention for candidates for future positions|
+| Databases| Aggregation tool, Retention for candidates for future positions|
 | Forms | Short questionnaires instead of motivation letters |
 | Mail | Notification of stakeholders |
 | Maps | Interview location |
