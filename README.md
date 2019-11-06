@@ -39,6 +39,22 @@ Next steps for the project will involve process optimization and tool selection.
 #### General automation changes
 Over the whole employment process the information traffic between company and applicants (invitations, rejections, etc.) will get automated/standardized. Forms will be defined to enable standardized communication.
 
+
+#### Tools
+
+To automate the interview process and improve the interview experience. Different tools are currently under analysis.
+| Tool  | Description | 
+| :---         | :---      |          
+| Linkedin   | Job Posting  | 
+| Calendar   | Timeline management  | Internal scheduling | Reminders 
+| VC and chat tools | virtual interviews|
+| Databases| Aggregation tool | Retention for candidates for future positions|
+| Forms | Short questionnaires instead of motivation letters |
+| Mail | Notification of stakeholders |
+| Maps | Interview location |
+
+
+
 ## Maintainer
 - [Digitalisation of Business Processes](https://github.com/digibp)
 
