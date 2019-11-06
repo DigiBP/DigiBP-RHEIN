@@ -40,14 +40,14 @@ Next steps for the project will involve process optimization and tool selection.
 Over the whole employment process the information traffic between company and applicants (invitations, rejections, etc.) will get automated/standardized. Forms will be defined to enable standardized communication.
 
 
-#### Tools
+#### Tool analysis 
 
-To automate the interview process and improve the interview experience, different tools are currently under analysis.
+To automate the interview process and improve the interview experience, different tools with specific characteristics and use cases are under analysis.
 
 
 | Tool  | Description | 
 | --- | --- |          
-| Linkedin | Job Posting | 
+| LinkedIn | Job Posting | 
 | Calendar | Timeline management, Internal scheduling, Reminders | 
 | VC and chat tools | virtual interviews|
 | Databases| Aggregation tool, Retention for candidates for future positions|
