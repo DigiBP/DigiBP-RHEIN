@@ -11,7 +11,7 @@ Teyfik Agac
 Pamela Streisguth
 
 # About worXart
-worXart is a Swiss small and medium-sized enterprises in the 
+worXart is a Swiss small and medium-sized enterprises with 90 employees. Due to their size and limited resources available they are about to some of their major business processes. On of the prozesses to automize is the hiring process. 
 
 
 ## Description
