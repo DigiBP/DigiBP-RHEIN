@@ -17,12 +17,11 @@ The recruitment of new employees is of strategic importance for a company. Findi
 ### Strategic Process Model
 The process starts at the hiring department, where need for support was identified. The line manager defines the position and outlines the relevant skills needed for the job. Afterwards HR creates the job advertisement. After creation, the advertisement is reviewed by the hiring department. Afterwards will be decided, if the advertisement needs to be reworked or if the advertisement is accepted. If the advertisement is accepted, it will be published and becomes visible for applicants. The applicants are now able to submit their applications. Having received the applications, possible candidates will be identified. HR will check documents for completeness. If there are missing documents, HR will ask applicants for missing documents. The applicants will hand in missing docs, which will again collected and checked  by HR. If the resumé is fitting for the open position, a first interview will be initiated with the applicant. If the applicant still matches the job profile a second interview may be scheduled. Afterwards a candidate evaluation will be done. If the candidate sill is a fit for the position, contract negotiations will start. Depending on the outcome, a contract is signed or another applicant may be considered. Once the hiring process is over on boarding activities can be planned and executed. 
 
+![20191031ASPM comments SEK_partially applied](https://user-images.githubusercontent.com/56949532/68839631-615a8b00-06c1-11ea-8d9a-3b7d5cf00c7c.png)
+
 The aim of the project is to improve the overall process by applying optimization methods and where deemed useful implementation of automated, digital processes.
 
 Next steps for the project will involve process optimization and tool selection. A detailed implementation plan will depend on those steps.
-
-![20191031ASPM comments SEK_partially applied](https://user-images.githubusercontent.com/56949532/68839631-615a8b00-06c1-11ea-8d9a-3b7d5cf00c7c.png)
-
 
 ### Steps of the model
 
