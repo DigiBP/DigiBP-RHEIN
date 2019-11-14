@@ -21,7 +21,7 @@ The aim of the project is to improve the overall process by applying optimizatio
 
 Next steps for the project will involve process optimization and tool selection. A detailed implementation plan will depend on those steps.
 
-![What is this](20191031ASPM comments SEK_partially applied.png)
+![20191031ASPM comments SEK_partially applied](https://user-images.githubusercontent.com/56949532/68839631-615a8b00-06c1-11ea-8d9a-3b7d5cf00c7c.png)
 
 
 ### Steps of the model
