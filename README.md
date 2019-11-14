@@ -3,15 +3,8 @@
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-Heroku-6762a6.svg?longCache=true)](https://heroku.com/deploy)
 
-## Authors
-Sebastian Kluthe
-
-Teyfik Agac
-
-Pamela Streisguth
-
 # About worXart
-worXart is a Swiss small and medium-sized enterprises with 65 employees. Due to their size and limited resources available they are about automate some of their major business processes. On of the prozesses to automize is the hiring process. 
+worXart is a Swiss small and medium-sized enterprises with 65 employees. Due to their size and limited resources available, they are about to automate some of their major business processes. One of the processes they kept an eye on on automating was the hiring process. 
 
 
 ## Description
@@ -61,6 +54,12 @@ To automate the interview process and improve the interview experience, differen
 | `Mail` | Notification of stakeholders |
 | `Maps` | Interview location |
 
+## Authors
+Sebastian Kluthe
+
+Teyfik Agac
+
+Pamela Streisguth
 
 
 ## Maintainer
@@ -69,3 +68,5 @@ To automate the interview process and improve the interview experience, differen
 ## License
 
 - [Apache License, Version 2.0](https://github.com/DigiBP/digibp-archetype-camunda-boot/blob/master/LICENSE)
+
+
