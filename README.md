@@ -20,7 +20,7 @@ The process starts at the hiring department, where need for support was identifi
 The aim of the project is to improve the overall process by applying optimization methods and where deemed useful implementation of automated, digital processes.
 
 Next steps for the project will involve process optimization and tool selection. A detailed implementation plan will depend on those steps.
-![What is this](20191031ASPM comments SEK_partially applied.jpeg "As-ist Process Model")
+![What is this](20191031ASPM comments SEK_partially applied.jpeg)
 
 
 ### Steps of the model
