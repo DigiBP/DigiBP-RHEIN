@@ -4,7 +4,7 @@
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-Heroku-6762a6.svg?longCache=true)](https://heroku.com/deploy)
 
 # About worXart
-worXart is a Swiss small and medium-sized software developing firm with 60 employees. Due to its size and limited resources available, worXart aims to automate some of their major business processes. After internal analyisis worXart has decided to start with automating its the hiring process. 
+worXart is a Swiss small and medium-sized software developing firm with 60 employees. Due to its size and limited resources available, worXart aims to automate some of their major business processes. After internal analysis worXart has decided to start with the automation of its hiring process. 
 
 
 ## As-is process
