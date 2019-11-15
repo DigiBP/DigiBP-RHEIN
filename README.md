@@ -7,7 +7,7 @@
 worXart is a Swiss small and medium-sized software developing firm with 60 employees. Due to its size and limited resources available, worXart aims to automate some of their major business processes. One of the processes it wants to automate, is the hiring process. 
 
 
-## Description
+## As-is process
 ### Employee recruitment in  a company 
 The recruitment of new employees is strategicaly important for a company. Finding the best candidate to fill a vacancy, that also fits the prevailing company culture is a challenge. Several stakeholders are in involved in the recruitment process, such as employees from the human resource (HR) department and the hiring department, where a job opening has to be filled. The below process model shows the recruitment process of the company.
 
