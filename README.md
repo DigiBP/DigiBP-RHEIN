@@ -20,6 +20,8 @@ The aim of the project is to improve the overall process by applying optimizatio
 
 Next steps for the project will involve process optimization and tool selection. A detailed implementation plan will depend on those steps.
 
+## To-be process
+
 ### Steps of the model
 
 |Id|Title|As-Is|To-Be|Used Tools|
@@ -53,6 +55,7 @@ To automate the interview process and improve the interview experience, differen
 | `Forms` | Short questionnaires instead of motivation letters |
 | `Mail` | Notification of stakeholders |
 | `Maps` | Interview location |
+
 
 ## Authors
 Sebastian Kluthe
