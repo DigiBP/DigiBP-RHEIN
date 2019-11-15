@@ -9,7 +9,7 @@ worXart is a Swiss small and medium-sized software developing firm with 60 emplo
 
 ## As-is process
 ### Employee recruitment in  a company 
-The recruitment of new employees is strategicaly important for a company. Finding the best candidate to fill a vacancy, that also fits the prevailing company culture is a challenge. Several stakeholders are in involved in the recruitment process, such as employees from the human resource (HR) department and the hiring department, where a job opening has to be filled. The below process model shows the recruitment process of the company.
+The recruitment of new employees is strategicaly important for a company. Finding the best candidate to fill a vacancy, that also fits the prevailing company culture is a challenge. Several stakeholders are in involved in the recruitment process, such as employees from the human resource (HR) department and the hiring department, where a job opening has to be filled. The below process model shows the as-is recruitment process of the company.
 
 ![20191114_Strategic Process Model](https://user-images.githubusercontent.com/56949532/68846166-eac38a80-06cc-11ea-84c4-1fadde443abb.png)
 
