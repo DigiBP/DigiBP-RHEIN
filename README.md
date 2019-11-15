@@ -16,11 +16,12 @@ The process starts at the hiring department, where a job vacancy was identified.
 
 ![20191114_Strategic Process Model](https://user-images.githubusercontent.com/56949532/68846166-eac38a80-06cc-11ea-84c4-1fadde443abb.png)
 
+
+## To-be process
+
 The aim of the project is to improve the overall process by applying optimization methods and where deemed useful implementation of automated, digital processes.
 
 Next steps for the project will involve process optimization and tool selection. A detailed implementation plan will depend on those steps.
-
-## To-be process
 
 ### Steps of the model
 
