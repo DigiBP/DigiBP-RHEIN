@@ -4,12 +4,12 @@
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-Heroku-6762a6.svg?longCache=true)](https://heroku.com/deploy)
 
 # About worXart
-worXart is a Swiss small and medium-sized enterprises with 65 employees. Due to their size and limited resources available, they are about to automate some of their major business processes. One of the processes they kept an eye on on automating was the hiring process. 
+worXart is a Swiss small and medium-sized enterprises with 65 employees. Due to their size and limited resources available, they want to automate some of their major business processes. One of the processes they kept an eye on automating, is the hiring process. 
 
 
 ## Description
 ### Employee recruitment in  a company 
-The recruitment of new employees is of strategic importance for a company. Finding the best candidate for the position, that also fits to the company culture is a challenge. Several stakeholders are in involved in the recruitment process, such as employees from the human resource (HR) department and the hiring department, where the open position is located. The below process model shows the recruitment process of the company.
+The recruitment of new employees is strategicaly important for a company. Finding the best candidate for the position, that also fits to the company culture is a challenge. Several stakeholders are in involved in the recruitment process, such as employees from the human resource (HR) department and the hiring department, where the open position is located. The below process model shows the recruitment process of the company.
 
 ### Strategic Process Model
 The process starts at the hiring department, where need for support was identified. The line manager defines the position and outlines the relevant skills needed for the job. Afterwards HR creates the job advertisement. After creation, the advertisement is reviewed by the hiring department. Afterwards will be decided, if the advertisement needs to be reworked or if the advertisement is accepted. If the advertisement is accepted, it will be published and becomes visible for applicants. The applicants are now able to submit their applications. Having received the applications, possible candidates will be identified. HR will check documents for completeness. If there are missing documents, HR will ask applicants for missing documents. The applicants will hand in missing docs, which will again collected and checked  by HR. If the resumé is fitting for the open position, a first interview will be initiated with the applicant. If the applicant still matches the job profile a second interview may be scheduled. Afterwards a candidate evaluation will be done. If the candidate sill is a fit for the position, contract negotiations will start. Depending on the outcome, a contract is signed or another applicant may be considered. Once the hiring process is over on boarding activities can be planned and executed. 
