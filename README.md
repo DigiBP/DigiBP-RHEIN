@@ -20,14 +20,14 @@ The process starts at the worXart hiring department, where a job vacancy was ide
 
 ## To-be process
 
+### To-be strategic process model
+
 The aim of the project is to improve the overall process by applying optimization methods and where deemed useful implementation of automated, digital processes.
 
 Next steps for the project will involve process optimization and tool selection. A detailed implementation plan will depend on those steps.
 
 ![20191106_Business_Process_Model_ToBe](https://user-images.githubusercontent.com/56949532/69168873-b4847180-0af7-11ea-8477-a08704fe8d98.png)
 
-
-### To-be strategic process model
 
 |Id|Title|As-Is|To-Be|Used Tools|
 |---|---|---|---|---|
