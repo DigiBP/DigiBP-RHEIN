@@ -22,6 +22,8 @@ The aim of the project is to improve the overall process by applying optimizatio
 
 Next steps for the project will involve process optimization and tool selection. A detailed implementation plan will depend on those steps.
 
+![20191106_Business_Process_Model_ToBe](https://user-images.githubusercontent.com/56949532/69168536-2314ff80-0af7-11ea-923e-6dfd9e127174.png)
+
 ### Steps of the model
 
 |Id|Title|As-Is|To-Be|Used Tools|
