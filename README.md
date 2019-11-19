@@ -3,18 +3,13 @@
 2.[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#about-worxart)   
 3.[Employee recruitment](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md#Employee-recruitment)   
 4.[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-process)   
-   4.[As-is strategic process model](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-strategic-process-model)   
+       4.1.[As-is strategic process model](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-strategic-process-model)   
 5.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-process)   
-    i.[To-be strategic process model ](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-strategic-process-model)   
-    ii.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)   
-    iii.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#tool-analysis)   
+       5.1.[To-be strategic process model ](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-strategic-process-model)   
+       5.2.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)   
+       5.3.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#tool-analysis)   
     
-    
-     * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
+  
 
 # Recruitment Process at worXart
 
