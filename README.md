@@ -7,7 +7,7 @@
 6.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-process)   
 7.[To-be strategic process model ](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-strategic-process-model)   
 8.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)   
-9.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)   
+9.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#tool-analysis)   
 
 # Recruitment Process at worXart
 
