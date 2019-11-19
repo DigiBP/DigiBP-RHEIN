@@ -4,17 +4,19 @@
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-Heroku-6762a6.svg?longCache=true)](https://heroku.com/deploy)
 
 # About worXart
-worXart is a Swiss small and medium-sized software developing firm with 60 employees. Due to its size and limited resources available, worXart has introduced a company-wide process automation initative aiming to automate some of its major business processes. After an indepth internal analysis, worXart has decided to start with the automation of its hiring process. 
+worXart is a Swiss small and medium-sized software developing firm with 60 employees. Due to its size and limited resources available, worXart has introduced a company-wide process automation initative aiming to automate some of its major business processes. After an indepth internal analysis, worXart has decided to start with the automation of its hiring process.
+
+# Employee recruitment in  a company 
+The recruitment of new employees is strategicaly important for a company. Finding the best candidate to fill a vacancy, that also fits the prevailing worXart company culture is a challenge. Several stakeholders are in involved in the recruitment process, such as employees from the human resource (HR) department and the hiring department, where a job opening has to be filled. The below process model shows the as-is recruitment process of the company.
 
 
 ## As-is process
-### Employee recruitment in  a company 
-The recruitment of new employees is strategicaly important for a company. Finding the best candidate to fill a vacancy, that also fits the prevailing worXart company culture is a challenge. Several stakeholders are in involved in the recruitment process, such as employees from the human resource (HR) department and the hiring department, where a job opening has to be filled. The below process model shows the as-is recruitment process of the company.
-
-![20191016_Strategic Process Model](https://user-images.githubusercontent.com/56949532/69006831-4db75a80-0935-11ea-9af0-a1d41e28185a.png)
 
 ### As-is strategic process model
 The process starts at the worXart hiring department, where a job vacancy was identified. The line manager raises a recruitment request, defines the position and outlines the job requirements and skills needed to perform the job. Later on, HR creates the job advertisement. Afterwards, the advertisement is reviewed by the hiring department. It will be decided, if the advertisement needs to be reworked or if the advertisement is accepted. If the advertisement is accepted, it will be published and becomes visible for applicants on the company's website and LinkedIn. The applicants are now able to submit their applications. After having received the applications, potential candidates will be identified. HR will check the documents for completeness. In case of missing documents, HR will ask the applicants for the missing documents. The applicants will hand in missing documents, which will again be collected and checked  by HR. If the resumé fits the open position, a first interview will be initiated. If the applicant still matches the job profile, a second interview may be scheduled. Hence, a candidate evaluation will be done. If the candidate continues to be a fit for the vacancy, contract negotiations will start. Depending on the outcome, a contract is signed or another applicant may be considered instead. Once the hiring process is over, the onboarding activities can be planned and executed. 
+
+
+![20191016_Strategic Process Model](https://user-images.githubusercontent.com/56949532/69006831-4db75a80-0935-11ea-9af0-a1d41e28185a.png)
 
 ## To-be process
 
