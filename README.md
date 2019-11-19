@@ -1,5 +1,12 @@
-# [Recruitment Process at worXart](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
-
+###[Recruitment Process at worXart](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
+###[About worxart](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
+###[Employee recruitment](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
+###[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
+###[As-is strategic process model](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
+###[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
+###[To-be strategic process model ](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
+###[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
+###[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md)
 
 
 
