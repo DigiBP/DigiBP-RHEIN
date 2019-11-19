@@ -5,7 +5,7 @@
 4.[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-process)   
     1.[As-is strategic process model](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-strategic-process-model)      
 5.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-process)                
-1.[To-be strategic process model ](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-strategic-process-model)              2.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)      
+1.[To-be strategic process model ](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-strategic-process-model)                       2.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)      
        3.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#tool-analysis)      
     
   
