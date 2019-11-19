@@ -9,10 +9,12 @@
     ii.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)   
     iii.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#tool-analysis)   
     
-     Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
+    
+     * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 
 # Recruitment Process at worXart
 
