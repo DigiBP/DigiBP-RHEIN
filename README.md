@@ -16,7 +16,7 @@ The recruitment of new employees is strategicaly important for a company. Findin
 ### Strategic Process Model
 The process starts at the worXart hiring department, where a job vacancy was identified. The line manager raises a recruitment request, defines the position and outlines the job requirements and skills needed to perform the job. Later on, HR creates the job advertisement. Afterwards, the advertisement is reviewed by the hiring department. It will be decided, if the advertisement needs to be reworked or if the advertisement is accepted. If the advertisement is accepted, it will be published and becomes visible for applicants on the company's website and LinkedIn. The applicants are now able to submit their applications. After having received the applications, potential candidates will be identified. HR will check the documents for completeness. In case of missing documents, HR will ask the applicants for the missing documents. The applicants will hand in missing documents, which will again be collected and checked  by HR. If the resumé fits the open position, a first interview will be initiated. If the applicant still matches the job profile, a second interview may be scheduled. Hence, a candidate evaluation will be done. If the candidate continues to be a fit for the vacancy, contract negotiations will start. Depending on the outcome, a contract is signed or another applicant may be considered instead. Once the hiring process is over, the onboarding activities can be planned and executed. 
 
-## To-be Process
+## To-be process
 
 The aim of the project is to improve the overall process by applying optimization methods and where deemed useful implementation of automated, digital processes.
 
