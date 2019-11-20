@@ -1,6 +1,6 @@
 # Table of contents 
 <ul>
-<li>1.[Recruitment Process at worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#recruitment-process-at-worxart) 
+<li>[Recruitment Process at worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#recruitment-process-at-worxart) 
 <li>2.[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#about-worxart)            
 <li>3.[Employee recruitment](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md#Employee-recruitment) 
  <ol>
