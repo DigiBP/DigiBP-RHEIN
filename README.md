@@ -9,7 +9,7 @@
 8.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)   
 9.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#tool-analysis)  
 
-  
+  - [Table of contents](#table-of-contents)
 
   
 # Recruitment Process at worXart
