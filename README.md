@@ -1,8 +1,8 @@
 # Table of contents 
-[Recruitment Process at worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#recruitment-process-at-worxart) 
-2.[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#about-worxart)            
-3.[Employee recruitment](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md#Employee-recruitment) 
-4.[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-process)       
+1.[Recruitment Process at worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#recruitment-process-at-worxart)          
+2.[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#about-worxart)                
+3.[Employee recruitment](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md#Employee-recruitment)      
+4.[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-process)           
 5.[As-is strategic process model](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-strategic-process-model)      
 6.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-process)  
 7.[To-be strategic process model](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-strategic-process-model) 8
