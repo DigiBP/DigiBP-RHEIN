@@ -17,7 +17,7 @@
 # About worXart
 worXart was founded in 2011 with a simple and clear vision: to be the catalyst of innovation, creating better code every day. worXart is a Swiss small and medium-sized software developing firm with 60 employees. Due to its size and limited resources available, worXart has introduced a company-wide process automation initative aiming to automate some of its major business processes. After an indepth internal analysis, worXart has decided to start with the automation of its hiring process.
 
-# Company Vision
+# Vision
 worXart simple and clear vision is: to be the catalyst of innovation, creating better code every day
 
 # Employee recruitment
@@ -56,11 +56,11 @@ Next steps for the project will involve process optimization and tool selection.
 | 9 |  Hiring | <li> HR invites candidate to sign paperwork and finish employment processes | <li> Process cannot be automated due to importance of candidate cooperation. |   |
 | 10 | On-Boarding | <li> Candidate gets information about specific tasks, environment and workflows of the department/position acquired  | <li> Cannot be automated despite automatically handing information via e-mail/mail to candidate. |   |
 
-#### General automation changes
+### General automation changes
 Over the whole employment process the information traffic between company and applicants (invitations, rejections, etc.) will get automated/standardized. Forms will be defined to enable standardized communication.
 
 
-#### Tool analysis 
+### Tool analysis 
 
 To automate the interview process and improve the interview experience, different tools with specific characteristics and use cases are under analysis. Since the tool selection was not yet done, it was not yet included into the process model.
 
