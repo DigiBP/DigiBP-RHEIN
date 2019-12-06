@@ -59,7 +59,7 @@ Next steps for the project will involve process optimization and tool selection.
 | 11 | <img width="111" alt="Bildschirmfoto 2019-12-06 um 21 10 33" src="https://user-images.githubusercontent.com/56949532/70354290-76b17800-186f-11ea-9705-15ce1fa80701.png"> |   |
 | 12 | <img width="111" alt="Bildschirmfoto 2019-12-06 um 21 10 33" src="https://user-images.githubusercontent.com/56949532/70354290-76b17800-186f-11ea-9705-15ce1fa80701.png"> |   |
 | 13 | <img width="109" alt="Bildschirmfoto 2019-12-06 um 21 10 47" src="https://user-images.githubusercontent.com/56949532/70354449-d1e36a80-186f-11ea-8958-bf3fbfa991aa.png"> |   |
-| 14 | |   |
+| 14 | <img width="110" alt="Bildschirmfoto 2019-12-06 um 21 11 03" src="https://user-images.githubusercontent.com/56949532/70354560-238bf500-1870-11ea-92d7-bcb852021414.png"> |   |
 | 16 | |   |
 | 17 | |   |
 
