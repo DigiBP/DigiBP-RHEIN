@@ -61,7 +61,7 @@ Next steps for the project will involve process optimization and tool selection.
 | 13 | <img width="110" alt="Bildschirmfoto 2019-12-06 um 21 11 03" src="https://user-images.githubusercontent.com/56949532/70354560-238bf500-1870-11ea-92d7-bcb852021414.png">|   |
 | 14 |<img width="109" alt="Bildschirmfoto 2019-12-06 um 21 11 19" src="https://user-images.githubusercontent.com/56949532/70354745-b331a380-1870-11ea-8ce5-d448e645b047.png"> |   |
 | 16 |<img width="110" alt="Bildschirmfoto 2019-12-06 um 21 11 31" src="https://user-images.githubusercontent.com/56949532/70354810-dbb99d80-1870-11ea-9740-5db863e0a78e.png"> |   |
-| 17 | |   |
+| 17 | <img width="110" alt="Bildschirmfoto 2019-12-06 um 21 11 39" src="https://user-images.githubusercontent.com/56949532/70354875-09064b80-1871-11ea-8c4e-f1105c876ddd.png">|   |
 
 ### General automation changes
 Over the whole employment process the information traffic between company and applicants (invitations, rejections, etc.) will get automated/standardized. Forms will be defined to enable standardized communication.
