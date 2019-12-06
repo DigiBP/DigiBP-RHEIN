@@ -57,7 +57,7 @@ Next steps for the project will involve process optimization and tool selection.
 | 9 |  <img width="111" alt="Bildschirmfoto 2019-12-06 um 21 09 32" src="https://user-images.githubusercontent.com/56949532/70353803-85e3f600-186e-11ea-815b-b670c4015353.png"> | <li> HR invites candidate to sign paperwork and finish employment processes | <li> Process cannot be automated due to importance of candidate cooperation. |   |
 | 10 | <img width="111" alt="Bildschirmfoto 2019-12-06 um 21 09 45" src="https://user-images.githubusercontent.com/56949532/70353979-d8bdad80-186e-11ea-934b-0894c153f338.png"> | <li> Candidate gets information about specific tasks, environment and workflows of the department/position acquired  | <li> Cannot be automated despite automatically handing information via e-mail/mail to candidate. |   |
 | 11 | <img width="111" alt="Bildschirmfoto 2019-12-06 um 21 09 45" src="https://user-images.githubusercontent.com/56949532/70353979-d8bdad80-186e-11ea-934b-0894c153f338.png"> |   |
-| 12 | |   |
+| 12 | <img width="111" alt="Bildschirmfoto 2019-12-06 um 21 10 33" src="https://user-images.githubusercontent.com/56949532/70354290-76b17800-186f-11ea-9705-15ce1fa80701.png"> |   |
 | 13 | |   |
 
 ### General automation changes
