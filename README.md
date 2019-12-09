@@ -21,6 +21,9 @@ worXart was founded in 2011 with a simple and clear vision: to be the catalyst o
 # Vision
 >Our vision is to be the catalyst of innovation, creating better code every day
 
+# Mission
+>Our mission is to empower people with great software. As a trusted advisor we help our ecosystem of customers, partners and contributors to solve complex problems. 
+
 # Employee recruitment
 The recruitment of new employees is strategicaly important for a company. Finding the best candidate to fill a vacancy, that also fits the prevailing worXart company culture, is a challenge. Several stakeholders are in involved in the recruitment process, such as employees from the human resource (HR) department and the hiring department, where a job opening has to be filled. The below process model shows the as-is recruitment process of the company.
 
