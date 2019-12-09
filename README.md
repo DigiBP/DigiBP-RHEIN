@@ -16,13 +16,16 @@
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-Heroku-6762a6.svg?longCache=true)](https://heroku.com/deploy)
 
 # About worXart
-worXart was founded in 2011 with a simple and clear vision: to be the catalyst of innovation, creating better code every day. worXart is a Swiss small and medium-sized software developing firm with 60 employees. Due to its size and limited resources available, worXart has introduced a company-wide process automation initative aiming to automate some of its major business processes. After an indepth internal analysis, worXart has decided to start with the automation of its hiring process.
+worXart was founded in 2011 with a simple and clear vision: to be the catalyst of innovation, creating better code every day. worXart is a Swiss small and medium-sized software developing firm with 60 employees. 
 
 # Vision
 >Our vision is to be the catalyst of innovation, creating better code every day
 
 # Mission
 >Our mission is to empower people with great software. As a trusted advisor we help our ecosystem of customers, partners and contributors to solve complex problems. 
+
+# Ambition 2025
+Due to its size and limited resources available, worXart has introduced a company-wide process automation initative, called "ambition 2025" aiming to automate some of its major business processes. After an indepth internal analysis, worXart has decided to start with the automation of its hiring process.
 
 # Employee recruitment
 The recruitment of new employees is strategicaly important for a company. Finding the best candidate to fill a vacancy, that also fits the prevailing worXart company culture, is a challenge. Several stakeholders are in involved in the recruitment process, such as employees from the human resource (HR) department and the hiring department, where a job opening has to be filled. The below process model shows the as-is recruitment process of the company.
