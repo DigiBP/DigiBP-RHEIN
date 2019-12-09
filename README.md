@@ -18,13 +18,13 @@
 # About worXart
 worXart was founded in 2011 with a simple and clear vision: to be the catalyst of innovation, creating better code every day. worXart is a Swiss small and medium-sized software developing firm with 60 employees. 
 
-# Vision
+## Vision
 >Our vision is to be the catalyst of innovation, creating better code every day
 
-# Mission
+## Mission
 >Our mission is to empower people with great software. As a trusted advisor we help our ecosystem of customers, partners and contributors to solve complex problems. 
 
-# Ambition 2025
+## Ambition 2025
 Due to its size and limited resources available, worXart has introduced a company-wide process automation initative, called "ambition 2025" aiming to automate some of its major business processes. After an indepth internal analysis, worXart has decided to start with the automation of its hiring process.
 
 # Employee recruitment
