@@ -1,10 +1,9 @@
 # Table of contents         
-1.[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#about-worxart)  
-2.[Employee recruitment](https://github.com/DigiBP/DigiBP-RHEIN/edit/master/README.md#Employee-recruitment)      
-3.[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-process)                
-4.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-process)      
-5.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)   
-6.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#tool-analysis)  
+1.[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#about-worxart)      
+2.[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-process)                
+3.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-process)      
+4.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)   
+5.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#tool-analysis)  
 
  
 # Recruitment Process at worXart
