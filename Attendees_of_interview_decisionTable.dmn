@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="http://www.omg.org/spec/DMN/20151101/dmn.xsd" id="Definitions_0g222f8" name="DRD" namespace="http://camunda.org/schema/1.0/dmn" exporter="Camunda Modeler" exporterVersion="3.5.0">
+  <decision id="Decision_0tg32rl" name="Interview Attendees">
+    <decisionTable id="decisionTable_1">
+      <input id="input_1" label="Education">
+        <inputExpression id="inputExpression_1" typeRef="string">
+          <text>Education</text>
+        </inputExpression>
+        <inputValues id="UnaryTests_1yplm54">
+          <text>"Bachelor","Undergraduate","Master","Graduate","PhD","Certificate","Medical Doctor"</text>
+        </inputValues>
+      </input>
+      <input id="InputClause_0bdbfy1" label="Field">
+        <inputExpression id="LiteralExpression_1kk3w4u" typeRef="string">
+          <text>Field</text>
+        </inputExpression>
+        <inputValues id="UnaryTests_1r689ex">
+          <text>"Informatics","Marketing","Business","Software Development","Data Analysis","Software Engineering","Human Resources","Finance"</text>
+        </inputValues>
+      </input>
+      <output id="output_1" label="IT Department" name="IT Department" typeRef="boolean" />
+      <output id="OutputClause_1vm3f75" label="Finance Department" name="Finance Department" typeRef="boolean" />
+      <output id="OutputClause_13l9kpp" label="Laboratory Department" name="Laboratory Department" typeRef="boolean" />
+      <output id="OutputClause_1t2e938" label="Marketing Department" name="Marketing Department" typeRef="boolean" />
+      <output id="OutputClause_0c0okij" label="Human Resources" name="Human Resources" typeRef="string" />
+      <rule id="DecisionRule_04jmkkn">
+        <inputEntry id="UnaryTests_1orclps">
+          <text>""</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1krbkr9">
+          <text></text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0nvxw10">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0wp7i0o">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_14mv4id">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1azhm5c">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_05qufkm">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1nh5gsi">
+        <inputEntry id="UnaryTests_1adz6xw">
+          <text>"Bachelor", "Undergraduate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0d75awv">
+          <text>"Informatics","Software Development","Data Analysis","Software Engineering"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1g4s0p2">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0xnfvqn">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0g21so6">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0j5yc55">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0arlsox">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0okwz0g">
+        <inputEntry id="UnaryTests_0b3e33f">
+          <text>"Bachelor", "Undergraduate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1e4lj1b">
+          <text>"Marketing"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0rhv07e">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0bvqmno">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_06hu0ac">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_07su7s8">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0qpicp5">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1fsw8jt">
+        <inputEntry id="UnaryTests_0vpm2b5">
+          <text>"Bachelor", "Undergraduate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0dk1hir">
+          <text>"Business","Finance"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_01rucal">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_054x27e">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0cbzpr0">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0r0ppfv">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_16fmac5">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0fgvil3">
+        <inputEntry id="UnaryTests_1o6ipwa">
+          <text>"Bachelor", "Undergraduate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_07ufdvc">
+          <text>"Human Resources"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_01anwy2">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1ue7427">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_00437l2">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_170b1fg">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1kuv6ph">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0zqqpqq">
+        <inputEntry id="UnaryTests_0rkdgjs">
+          <text>"Master", "Graduate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1ay7bl2">
+          <text>"Informatics","Software Development","Data Analysis","Software Engineering"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_02rw1l8">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0erxjkr">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0ka2s2u">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1m8vbst">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1k66k36">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_18o7ljf">
+        <inputEntry id="UnaryTests_1u7a9w4">
+          <text>"Master", "Graduate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_11m7j6c">
+          <text>"Marketing"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1vg9wgb">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0oexlwh">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1gyugny">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_09rjj56">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0061r4f">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_151cz60">
+        <inputEntry id="UnaryTests_1lfz5ms">
+          <text>"Master", "Graduate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0srz2zk">
+          <text>"Business","Finance"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0si1kyp">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0npsxu7">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0ni5ayj">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1080ej2">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_16trxdj">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1ym22xb">
+        <inputEntry id="UnaryTests_16txyt2">
+          <text>"Master", "Graduate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0ci962x">
+          <text>"Human Resources"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1lyn7c3">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0v7n8uq">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_01v0pcz">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0sd2vjh">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0evsg1p">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1cqqkg4">
+        <inputEntry id="UnaryTests_1ktyuhm">
+          <text>"PhD"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_13qgjn7">
+          <text>"Informatics","Software Development","Data Analysis","Software Engineering"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0x0qg3e">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1101km5">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1x03dhw">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_01akn4e">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0z8nlmm">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_194e776">
+        <inputEntry id="UnaryTests_0eoz7x6">
+          <text>"PhD"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1iw3rbv">
+          <text>"Marketing"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1nlocwf">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1x9fn2o">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_12vxhth">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_02m4kri">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_17aqhgv">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_09nqilg">
+        <inputEntry id="UnaryTests_12an9dw">
+          <text>"PhD"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0sm736t">
+          <text>"Business","Finance"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1x1jqr8">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1caegpe">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1n03jh9">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1mm4i5y">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0oxiry7">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_01ra8jj">
+        <inputEntry id="UnaryTests_1yrx9ps">
+          <text>"PhD"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_08lmkn2">
+          <text>"Human Resources"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1w39hy9">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1gr593r">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1uftmf0">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_00107o2">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0j3i0gg">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1euv1g7">
+        <inputEntry id="UnaryTests_09qeqc7">
+          <text>"Certificate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0c85v6z">
+          <text>"Informatics","Software Development","Data Analysis","Software Engineering"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_10kkf9u">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1ec57co">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1fg5m3g">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0zm648m">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_13ldhox">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0yp90ol">
+        <inputEntry id="UnaryTests_1j8doak">
+          <text>"Certificate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0iqb0pa">
+          <text>"Marketing"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_03vawt7">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0c5uqif">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0s21a1z">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0ic3pvu">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1nyrhmu">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0gzi986">
+        <inputEntry id="UnaryTests_1wef83e">
+          <text>"Certificate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_13jhtfv">
+          <text>"Business","Finance"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0ybbagw">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1xksa2n">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0gvkrqa">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1wt21ck">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0n27045">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1v1viz7">
+        <inputEntry id="UnaryTests_1dhf8to">
+          <text>"Certificate"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1ovxi1l">
+          <text>"Human Resources"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0tk0s7i">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0i8cp8n">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1lmmr5r">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0182zhh">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_01ja47u">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0eejwi9">
+        <inputEntry id="UnaryTests_0k6411v">
+          <text>"Medical Doctor"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1tb4emn">
+          <text>"Informatics","Software Development","Data Analysis","Software Engineering"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1ixfppe">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0ir8hpm">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0kz9fnp">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1lj0zlb">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0ug1i2w">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0872n2t">
+        <inputEntry id="UnaryTests_0o1lu1h">
+          <text>"Medical Doctor"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0z7q4ei">
+          <text>"Marketing"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0y6ftr9">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0fk7g3b">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_12sfzcj">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1lnhof9">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0tyhdt2">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1whtgmq">
+        <inputEntry id="UnaryTests_089rkzs">
+          <text>"Medical Doctor"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0w11wad">
+          <text>"Business","Finance"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_01cj5on">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0ta3ah0">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0zx54kv">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1xr7dkt">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0cbusu2">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1im09s4">
+        <inputEntry id="UnaryTests_1pvkd8y">
+          <text>"Medical Doctor"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0zybbg1">
+          <text>"Human Resources"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_19kha9s">
+          <text>false</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_13i1dwh">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0q6nlt9">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0ykabae">
+          <text>true</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0q2l57z">
+          <text>true</text>
+        </outputEntry>
+      </rule>
+    </decisionTable>
+  </decision>
+</definitions>
