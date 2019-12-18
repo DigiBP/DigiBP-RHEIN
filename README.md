@@ -34,14 +34,7 @@ Please consult our [wiki](https://github.com/DigiBP/DigiBP-RHEIN/wiki) if you wa
 
 
 
-## Authors
-Sebastian Kluthe
-
-Teyfik Agac
-
-Pamela Streisguth
-
-
+       
 ## Maintainer
 - [Digitalisation of Business Processes](https://github.com/digibp)
 
