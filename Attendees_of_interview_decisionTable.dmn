@@ -22,7 +22,7 @@
       <output id="OutputClause_1vm3f75" label="Finance Department" name="Finance Department" typeRef="boolean" />
       <output id="OutputClause_13l9kpp" label="Laboratory Department" name="Laboratory Department" typeRef="boolean" />
       <output id="OutputClause_1t2e938" label="Marketing Department" name="Marketing Department" typeRef="boolean" />
-      <output id="OutputClause_0c0okij" label="Human Resources" name="Human Resources" typeRef="string" />
+      <output id="OutputClause_0c0okij" label="Human Resources" name="Human Resources" typeRef="boolean" />
       <rule id="DecisionRule_04jmkkn">
         <inputEntry id="UnaryTests_1orclps">
           <text>""</text>
