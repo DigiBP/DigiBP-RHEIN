@@ -1,9 +1,9 @@
 # Table of contents         
-1.[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/wiki/About-WorXart)       
-2.[Ambition 2020](https://github.com/DigiBP/DigiBP-RHEIN/wiki/Ambition2020)       
-3.[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/wiki/As-is-process)                
-4.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/wiki/To-be-process)       
-5.[Wrap up](https://github.com/DigiBP/DigiBP-RHEIN/wiki/Wrap-up) 
+[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/wiki/About-WorXart)       
+[Ambition 2020](https://github.com/DigiBP/DigiBP-RHEIN/wiki/Ambition2020)       
+[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/wiki/As-is-process)                
+[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/wiki/To-be-process)       
+[Wrap up](https://github.com/DigiBP/DigiBP-RHEIN/wiki/Wrap-up) 
 
 
 
