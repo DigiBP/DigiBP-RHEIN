@@ -25,7 +25,7 @@ Simon Wellington, CEO at worXart
 
 
 
-Please consult our [wiki](https://github.com/DigiBP/DigiBP-RHEIN/wiki) if you want to know more
+Please consult our [wiki](https://github.com/DigiBP/DigiBP-RHEIN/wiki) to learn more.
  
 
 
