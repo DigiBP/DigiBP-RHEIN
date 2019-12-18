@@ -1,10 +1,10 @@
 # Table of contents         
-1.[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#about-worxart)      
-2.[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#as-is-process)                
-3.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#to-be-process)      
-4.[General automation changes](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#general-automation-changes)   
-5.[Tool analysis](https://github.com/DigiBP/DigiBP-RHEIN/blob/master/README.md#tool-analysis)  
-
+1.[About worXart](https://github.com/DigiBP/DigiBP-RHEIN/wiki/About-WorXart)       
+2.[Ambition 2020](https://github.com/DigiBP/DigiBP-RHEIN/wiki/Ambition2020)       
+3.[As-is process](https://github.com/DigiBP/DigiBP-RHEIN/wiki/As-is-process)                
+4.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/wiki/To-be-process)       
+5.[Wrap up](https://github.com/DigiBP/DigiBP-RHEIN/wiki/Wrap-up) 
+  
  
 # Recruitment Process at worXart
 
