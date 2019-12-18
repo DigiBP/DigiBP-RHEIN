@@ -8,7 +8,7 @@
 
 
 
->Our vision was „Hiring as a Service“ -  where our people were free to digitalize, reinvent and create services of hiring the best talents. We wanted to be able to quickly take an idea to production while at the same time meeting the security and regulatory standards.
+>Our vision was „Hiring as a Service“ -  where our people were free to digitalize, reinvent and create new services for the hiring process with the goal to attract the best talents. We wanted to be able to quickly take an idea to production while at the same time meeting the security and regulatory standards.
 
 Simon Wellington, Head of IT at worXart
 
