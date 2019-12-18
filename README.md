@@ -5,7 +5,7 @@
 4.[To-be process](https://github.com/DigiBP/DigiBP-RHEIN/wiki/To-be-process)       
 5.[Wrap up](https://github.com/DigiBP/DigiBP-RHEIN/wiki/Wrap-up) 
 
-Our vision was „Hiring as a Service“ -  where our people were free to invent and create new services of hiring the best talents. We wanted to be able to quickly take an idea to production while at the same time meeting the security and regulatory standards.
+>Our vision was „Hiring as a Service“ -  where our people were free to invent and create new services of hiring the best talents. We wanted to be able to quickly take an idea to production while at the same time meeting the security and regulatory standards.
 
 Simon Wellington, Head of IT, worXart
 
