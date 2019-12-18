@@ -12,6 +12,8 @@
 
 Simon Wellington, Head of IT at worXart
 
+
+Please consult our wiki, if you want to know more https://github.com/DigiBP/DigiBP-RHEIN/wiki
   
  
 # Recruitment Process at worXart
